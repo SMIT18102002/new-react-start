@@ -1,9 +1,9 @@
 import React from 'react'
 
-const User = () => {
+function User() {
   return (
     <div>
-      <h3>Hello user by jsx</h3>
+      <h2>Smit B. Patel</h2>
     </div>
   )
 }
